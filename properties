@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>FeedRider: A Feed Reader Application</comment>
+<entry key="appLogo">http://feedrider.googlecode.com/files/feedrider.png</entry>
+<entry key="javaVersion">1.5.0_19</entry>
+<entry key="channelsWidth">500</entry>
+<entry key="copyright">Copyright © 2007, 2009 Mahmud Hossain.&lt;br&gt;All rights reserved.</entry>
+<entry key="browserWidth">500</entry>
+<entry key="author">Mahmud Hossain</entry>
+<entry key="paypalUrl">https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;business=mahmud%2epaypal%40gmail%2ecom&amp;item_name=FeedRider%3a%20A%20Java%20Swing%20Application&amp;no_shipping=0&amp;no_note=1&amp;tax=0&amp;currency_code=USD&amp;lc=US&amp;bn=PP%2dDonationsBF&amp;charset=UTF%2d8</entry>
+<entry key="browserHeight">500</entry>
+<entry key="headlinesHeight">500</entry>
+<entry key="locationY">0</entry>
+<entry key="locationX">0</entry>
+<entry key="channelsHeight">500</entry>
+<entry key="mainFrameHeight">800</entry>
+<entry key="appDesc">FeedRider is a feed reader application with a built-in web browser. It works on Windows, Mac OS and Linux. It currently supports RSS 0.90 - RSS 2.0 and Atom 1.0. It is licensed under the GNU Lesser General Public License.</entry>
+<entry key="email">feedrider1@gmail.com</entry>
+<entry key="mainFrameWidth">1200</entry>
+<entry key="homepage">http://feedrider.googlecode.com</entry>
+<entry key="headlinesWidth">500</entry>
+<entry key="appVersion">0.1b1</entry>
+<entry key="appName">FeedRider: A Feed Reader Application</entry>
+<entry key="browser">false</entry>
+<entry key="defaultUrl">http://feedrider.googlecode.com/files/default.xml</entry>
+</properties>
